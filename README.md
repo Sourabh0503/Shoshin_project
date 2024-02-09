@@ -19,7 +19,7 @@ To optimize performance with low data volume, all available data is utilized dir
 
 Here's a sample image of the project:
 
-![Sample Image](assets/screenshots/shot1.png)
+![Sample Image , width:300](assets/screenshots/shot1.png)
 ![Sample Image](assets/screenshots/shot2.png)
 ![Sample Image](assets/screenshots/shot3.png)
 ![Sample Image](assets/screenshots/shot4.png)
