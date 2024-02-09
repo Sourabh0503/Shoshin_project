@@ -1,6 +1,6 @@
 # Flutter Project
 
-Welcome to my Flutter project! This project follows a proper project structure and utilizes media queries for responsiveness. The data handling approach is optimized for low data volume, where all data is used multiple times without filtering. The filtering functionality is included but commented out for reference.
+Welcome to my Flutter project! The UI is create only as the given screenshot and all the features and buttons are same as the instructions .This project follows a proper project structure and utilizes media queries for responsiveness. The data handling approach is optimized for low data volume, where all data is used multiple times without filtering. The filtering functionality is included but commented out for reference.
 
 ## Project Structure
 
@@ -19,6 +19,9 @@ To optimize performance with low data volume, all available data is utilized dir
 
 Here's a sample image of the project:
 
-![Sample Image](assets/images/sample_image.png)
+![Sample Image](assets/screenshots/shot1.png)
+![Sample Image](assets/screenshots/shot2.png)
+![Sample Image](assets/screenshots/shot3.png)
+![Sample Image](assets/screenshots/shot4.png)
 
 Feel free to explore the codebase and reach out if you have any questions or suggestions!
