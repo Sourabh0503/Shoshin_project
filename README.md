@@ -1,16 +1,24 @@
-# shoshin_assing_app
+# Flutter Project
 
-A new Flutter project.
+Welcome to my Flutter project! This project follows a proper project structure and utilizes media queries for responsiveness. The data handling approach is optimized for low data volume, where all data is used multiple times without filtering. The filtering functionality is included but commented out for reference.
 
-## Getting Started
+## Project Structure
 
-This project is a starting point for a Flutter application.
+The project follows a structured architecture to maintain clarity and scalability. 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Responsiveness
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The app is designed to adapt to various screen sizes using media queries, ensuring a consistent user experience across different devices.
+
+## Data Handling
+
+To optimize performance with low data volume, all available data is utilized directly without filtering. However, the filtering functionality is implemented but commented out in the codebase for future reference or scalability.
+
+## Sample Image
+
+Here's a sample image of the project:
+
+![Sample Image](assets/images/sample_image.png)
+
+Feel free to explore the codebase and reach out if you have any questions or suggestions!
